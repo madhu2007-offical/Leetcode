@@ -50,13 +50,25 @@ This repo is my **daily battlefield log** — every accepted solution auto-commi
 
 <div align="center">
 
-<img src="https://leetcode-badges.vercel.app/badge?username=madhu2007-offical" alt="LeetCode Stats"/>
+<img src="https://leetcode-badges.vercel.app/badge?username=Madhu_official" alt="LeetCode Stats"/>
 
 <br/><br/>
 
-[![LeetCode Trophies](https://leetcard.jacoblin.cool/madhu2007-offical?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/madhu2007-offical)
+[![LeetCode Trophies](https://leetcard.jacoblin.cool/Madhu_official?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/Madhu_official/)
 
 </div>
+
+<br/>
+
+## 📡 Live Sync (Auto-Updated Daily)
+
+<!--LEETCODE-STATS-START-->
+<div align="center">
+
+*⏱️ Stats will populate here after the first Action run — updated automatically every day.*
+
+</div>
+<!--LEETCODE-STATS-END-->
 
 <br/>
 
@@ -162,7 +174,7 @@ This repo is my **daily battlefield log** — every accepted solution auto-commi
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/madhu2007-offical)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Madhu_official/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhu2007-offical)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
