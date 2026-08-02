@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 LeetCode
+# LeetCode
 
 ### A collection of LeetCode questions to ace the coding interview!
 
@@ -8,7 +8,7 @@
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-7-brightgreen?style=for-the-badge)
 ![Auto Sync](https://img.shields.io/badge/Synced%20with-LeetHub%20v2-blueviolet?style=for-the-badge)
 
-*Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) — auto-pushes every accepted solution straight from LeetCode to GitHub.*
+*Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) - auto-pushes every accepted solution straight from LeetCode to GitHub.*
 
 </div>
 
