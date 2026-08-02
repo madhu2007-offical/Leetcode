@@ -1,52 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=LeetCode%20Grind&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Solving%20my%20way%20to%20FAANG,%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00F7FF,100:8A2BE2&height=220&section=header&text=MADHU%20OFFICIAL&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Time%20Dreamer%20•%20Full-Time%20DSA%20Grinder&descAlignY=52&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Daily+DSA+Grinder+%F0%9F%94%A5;Auto-Synced+with+LeetHub+v2;500%2B+Problems+and+Counting...;Consistency+%3E+Motivation)](https://git.io/typing-svg)
+```bash
+madhu@leetcode:~$ whoami
+> Daily grinder. Auto-synced. Zero excuses.
+
+madhu@leetcode:~$ cat mission.txt
+> "On interview day, I want every problem to feel like déjà vu."
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+booting+daily_grind.exe...;%3E+Auto-Synced+with+LeetHub+v2;%3E+500%2B+Problems+and+Climbing;%3E+Consistency+%3E+Motivation)](https://git.io/typing-svg)
 
 <br/>
 
-![Streak](https://img.shields.io/badge/🔥_STREAK-ACTIVE-FF4500?style=for-the-badge&labelColor=000000)
-![Problems](https://img.shields.io/badge/💯_SOLVED-7-00FF7F?style=for-the-badge&labelColor=000000)
-![Rank](https://img.shields.io/badge/🏆_RANK-CLIMBING-FFD700?style=for-the-badge&labelColor=000000)
-![Sync](https://img.shields.io/badge/⚡_AUTO--SYNC-LeetHub_v2-8A2BE2?style=for-the-badge&labelColor=000000)
+![Streak](https://img.shields.io/badge/🔥_STREAK-ACTIVE-FF00FF?style=for-the-badge&labelColor=0D0D0D)
+![Solved](https://img.shields.io/badge/💯_SOLVED-7-00F7FF?style=for-the-badge&labelColor=0D0D0D)
+![Rank](https://img.shields.io/badge/🏆_RANK-CLIMBING-FFD700?style=for-the-badge&labelColor=0D0D0D)
+![Sync](https://img.shields.io/badge/⚡_AUTO--SYNC-LIVE-8A2BE2?style=for-the-badge&labelColor=0D0D0D)
 
-<img src="https://komarev.com/ghpvc/?username=madhu2007-offical&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=madhu2007-offical&label=PROFILE+VIEWS&color=FF00FF&style=for-the-badge" />
 
 </div>
 
-<br/>
-
-## 🧠 Mission Statement
-
-> *"I don't grind LeetCode because it's fun. I grind it because on interview day, I want the problem to feel like déjà vu."*
-
-This repo is my **daily battlefield log** — every accepted solution auto-committed straight from LeetCode via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0), zero manual copy-paste, zero excuses.
-
-<br/>
-
-## ⚡ Live Stats Dashboard
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhu2007-offical&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu2007-offical&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+### ⚙️ &nbsp; SYSTEM &nbsp;•&nbsp; STATUS &nbsp;•&nbsp; LOG
+
+</div>
+
+> **Repo type:** Daily LeetCode battlefield log
+> **Auto-push:** every accepted solution → [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+> **Auto-refresh:** live stats synced daily via GitHub Actions
+> **Uptime:** 🟢 grinding since day 1
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu2007-offical&theme=tokyonight&hide_border=true&background=0D1117"/>
+## 📡 &nbsp; LIVE SYNC — AUTO-UPDATED DAILY
+
+<!--LEETCODE-STATS-START-->
+<div align="center">
+
+*⏱️ Stats populate here after the first Action run — refreshed automatically every day.*
+
+</div>
+<!--LEETCODE-STATS-END-->
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu2007-offical&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"/>
+## 🧬 &nbsp; STATS TERMINAL
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=madhu2007-offical&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhu2007-offical&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0D0D"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhu2007-offical&theme=synthwave&hide_border=true&background=0D0D0D"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhu2007-offical&theme=synthwave&hide_border=true&bg_color=0D0D0D&area=true"/>
 
 </div>
 
 <br/>
 
-## 🏆 LeetCode Trophy Cabinet
+## 🏆 &nbsp; TROPHY CABINET
 
 <div align="center">
 
@@ -60,19 +81,7 @@ This repo is my **daily battlefield log** — every accepted solution auto-commi
 
 <br/>
 
-## 📡 Live Sync (Auto-Updated Daily)
-
-<!--LEETCODE-STATS-START-->
-<div align="center">
-
-*⏱️ Stats will populate here after the first Action run — updated automatically every day.*
-
-</div>
-<!--LEETCODE-STATS-END-->
-
-<br/>
-
-## 🐍 Contribution Snake
+## 🐍 &nbsp; CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -82,29 +91,33 @@ This repo is my **daily battlefield log** — every accepted solution auto-commi
 
 <br/>
 
-## 🛠️ Weapons of Choice
+## 📊 &nbsp; DIFFICULTY BREAKDOWN
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Category | Progress |
+|:--|:--|
+| 🟢 Easy | ![](https://progress-bar.xyz/40/?title=solved&width=250&color=00F7FF&progressColor=00F7FF) |
+| 🟡 Medium | ![](https://progress-bar.xyz/25/?title=solved&width=250&color=FF00FF&progressColor=FF00FF) |
+| 🔴 Hard | ![](https://progress-bar.xyz/10/?title=solved&width=250&color=8A2BE2&progressColor=8A2BE2) |
+| 🎯 100-Day Streak | ![](https://progress-bar.xyz/7/?title=days&width=250&color=FFD700&progressColor=FFD700) |
 
 </div>
 
 <br/>
 
-## 📊 Progress Radar
+## ⚔️ &nbsp; WEAPONS OF CHOICE
 
-| Category | Progress |
-|:--|:--|
-| 🟢 Easy | ![](https://progress-bar.xyz/40/?title=solved&width=200&color=00cc66) |
-| 🟡 Medium | ![](https://progress-bar.xyz/25/?title=solved&width=200&color=ffcc00) |
-| 🔴 Hard | ![](https://progress-bar.xyz/10/?title=solved&width=200&color=ff3333) |
-| 🎯 100-Day Streak Goal | ![](https://progress-bar.xyz/7/?title=days&width=200&color=8a2be2) |
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00F7FF)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=FF00FF)
+![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=cplusplus&logoColor=8A2BE2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visual-studio-code&logoColor=00F7FF)
+
+</div>
 
 <br/>
 
@@ -158,9 +171,10 @@ This repo is my **daily battlefield log** — every accepted solution auto-commi
 
 <br/>
 
-## 🎯 Roadmap
+## 🗺️ &nbsp; ROADMAP.exe
 
 - [x] Set up LeetHub auto-sync
+- [x] Set up daily stats auto-sync
 - [x] Solve first 5 problems
 - [ ] Hit 30-day streak 🔥
 - [ ] Complete Blind 75
@@ -170,22 +184,22 @@ This repo is my **daily battlefield log** — every accepted solution auto-commi
 
 <br/>
 
-## 🤝 Connect
-
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Madhu_official/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhu2007-offical)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+### 🔗 &nbsp; CONNECT
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Madhu_official/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhu2007-offical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+```bash
+madhu@leetcode:~$ echo "thanks for stopping by"
+> ⭐ star this repo if it fuels your grind too
+> consistency beats intensity. keep pushing.
+```
 
-<div align="center">
-
-### ⭐ Star this repo if it fuels your grind too!
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F7FF,100:FF00FF&height=120&section=footer" width="100%"/>
