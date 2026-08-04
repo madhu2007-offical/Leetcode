@@ -104,6 +104,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhu2007-offical/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhu2007-offical/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
 
 <br/>
