@@ -103,6 +103,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhu2007-offical/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhu2007-offical/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +139,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Game Theory
 |  |
 | ------- |
@@ -154,6 +157,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
 
 <br/>
