@@ -145,6 +145,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -186,6 +187,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/madhu2007-offical/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
 
 <br/>
