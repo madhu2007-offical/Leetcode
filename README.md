@@ -223,6 +223,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
@@ -237,6 +238,18 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
 
 <br/>
