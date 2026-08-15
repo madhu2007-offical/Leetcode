@@ -140,6 +140,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhu2007-offical/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/madhu2007-offical/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -269,6 +270,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/madhu2007-offical/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
 
 <br/>
