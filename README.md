@@ -135,6 +135,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhu2007-offical/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -167,6 +168,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -177,6 +179,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,12 +191,14 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +213,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -229,6 +235,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhu2007-offical/Leetcode/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -250,6 +257,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
