@@ -135,6 +135,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -152,6 +153,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Indexed Tree
 |  |
@@ -170,6 +172,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhu2007-offical/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -181,6 +184,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
