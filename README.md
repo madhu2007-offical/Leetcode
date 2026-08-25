@@ -177,6 +177,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Math
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
@@ -264,6 +265,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
@@ -322,6 +324,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
 
 <br/>
