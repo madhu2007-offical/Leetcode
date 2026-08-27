@@ -112,6 +112,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhu2007-offical/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/madhu2007-offical/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/madhu2007-offical/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -124,6 +125,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhu2007-offical/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -239,6 +241,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +259,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +268,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
