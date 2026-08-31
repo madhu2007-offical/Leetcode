@@ -308,6 +308,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/madhu2007-offical/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
 | ------- |
