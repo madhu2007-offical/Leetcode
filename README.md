@@ -162,6 +162,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/madhu2007-offical/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/madhu2007-offical/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +201,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3345-smallest-divisible-digit-product-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/madhu2007-offical/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
 | ------- |
