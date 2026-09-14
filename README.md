@@ -199,6 +199,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
@@ -385,6 +386,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
 
 <br/>
