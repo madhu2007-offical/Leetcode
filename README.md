@@ -157,6 +157,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhu2007-offical/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
@@ -261,6 +262,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhu2007-offical/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -395,6 +397,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/madhu2007-offical/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/madhu2007-offical/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
