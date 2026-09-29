@@ -308,6 +308,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/madhu2007-offical/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -434,10 +435,12 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -449,6 +452,14 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
 
 <br/>
