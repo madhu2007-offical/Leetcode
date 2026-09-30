@@ -129,6 +129,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -234,6 +235,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhu2007-offical/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
@@ -473,6 +475,14 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/madhu2007-offical/Leetcode/tree/master/1114-print-in-order) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
 
 <br/>
