@@ -11,11 +11,11 @@ public:
 
             int area = width * h;
             maxWater = max(maxWater, area);
-            if (height[left] < height[right]) {
+
+            if (height[left] < height[right])
                 left++;
-            } else {
+            else
                 right--;
-            }
         }
 
         return maxWater;
