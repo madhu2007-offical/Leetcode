@@ -164,6 +164,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0033-search-in-rotated-sorted-array](https://github.com/madhu2007-offical/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
+| [0238-product-of-array-except-self](https://github.com/madhu2007-offical/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
@@ -371,6 +372,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/madhu2007-offical/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhu2007-offical/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
