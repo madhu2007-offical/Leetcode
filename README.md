@@ -166,6 +166,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0039-combination-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/madhu2007-offical/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
@@ -347,6 +348,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhu2007-offical/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
