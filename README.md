@@ -158,6 +158,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhu2007-offical/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/madhu2007-offical/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -174,6 +175,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0283-move-zeroes](https://github.com/madhu2007-offical/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/madhu2007-offical/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
