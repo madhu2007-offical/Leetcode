@@ -169,6 +169,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0039-combination-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/madhu2007-offical/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/madhu2007-offical/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
@@ -376,6 +377,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0011-container-with-most-water](https://github.com/madhu2007-offical/Leetcode/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/madhu2007-offical/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/madhu2007-offical/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/madhu2007-offical/Leetcode/tree/master/1768-merge-strings-alternately) |
