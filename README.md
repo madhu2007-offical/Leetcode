@@ -109,6 +109,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhu2007-offical/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -184,6 +185,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/madhu2007-offical/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
@@ -317,6 +319,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -383,6 +386,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0345-reverse-vowels-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhu2007-offical/Leetcode/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/madhu2007-offical/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
