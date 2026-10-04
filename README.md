@@ -164,6 +164,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1004-max-consecutive-ones-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madhu2007-offical/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhu2007-offical/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/madhu2007-offical/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -190,6 +191,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/madhu2007-offical/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhu2007-offical/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -234,6 +236,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhu2007-offical/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhu2007-offical/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
