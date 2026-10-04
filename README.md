@@ -195,6 +195,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1563-stone-game-v](https://github.com/madhu2007-offical/Leetcode/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/madhu2007-offical/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/madhu2007-offical/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
@@ -412,6 +413,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhu2007-offical/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/madhu2007-offical/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/madhu2007-offical/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3904-smallest-stable-index-ii) |
