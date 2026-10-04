@@ -135,6 +135,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0345-reverse-vowels-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/madhu2007-offical/Leetcode/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0940-distinct-subsequences-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -223,6 +224,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1012-numbers-with-repeated-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/1012-numbers-with-repeated-digits) |
@@ -365,6 +367,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0011-container-with-most-water](https://github.com/madhu2007-offical/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/madhu2007-offical/Leetcode/tree/master/2029-stone-game-ix) |
@@ -427,6 +430,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0020-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -496,6 +500,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0020-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
