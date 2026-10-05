@@ -154,6 +154,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1768-merge-strings-alternately](https://github.com/madhu2007-offical/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/madhu2007-offical/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2390-removing-stars-from-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/madhu2007-offical/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -458,6 +459,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -480,6 +482,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0258-add-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/0258-add-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/madhu2007-offical/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
