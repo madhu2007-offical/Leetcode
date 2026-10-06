@@ -138,6 +138,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0151-reverse-words-in-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/madhu2007-offical/Leetcode/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
@@ -456,6 +457,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0020-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/madhu2007-offical/Leetcode/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -469,6 +471,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Ordered Set
 |  |
