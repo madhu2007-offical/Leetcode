@@ -568,6 +568,18 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
 
 <br/>
