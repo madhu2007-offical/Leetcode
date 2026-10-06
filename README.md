@@ -140,6 +140,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/madhu2007-offical/Leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/madhu2007-offical/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -390,6 +391,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0011-container-with-most-water](https://github.com/madhu2007-offical/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/madhu2007-offical/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhu2007-offical/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -575,6 +577,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/madhu2007-offical/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
