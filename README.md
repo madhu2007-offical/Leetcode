@@ -454,6 +454,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/madhu2007-offical/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -477,6 +478,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
