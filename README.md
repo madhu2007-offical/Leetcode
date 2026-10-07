@@ -136,6 +136,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0032-longest-valid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/madhu2007-offical/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/madhu2007-offical/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
@@ -316,6 +317,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0022-generate-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/madhu2007-offical/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -370,6 +372,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/madhu2007-offical/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/madhu2007-offical/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
