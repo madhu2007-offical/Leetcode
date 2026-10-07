@@ -426,6 +426,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1768-merge-strings-alternately](https://github.com/madhu2007-offical/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2122-recover-the-original-array](https://github.com/madhu2007-offical/Leetcode/tree/master/2122-recover-the-original-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/madhu2007-offical/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/madhu2007-offical/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/madhu2007-offical/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -459,6 +460,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0328-odd-even-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/madhu2007-offical/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -474,6 +476,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/madhu2007-offical/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/madhu2007-offical/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
