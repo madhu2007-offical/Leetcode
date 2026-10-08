@@ -372,6 +372,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -382,6 +383,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0199-binary-tree-right-side-view](https://github.com/madhu2007-offical/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/madhu2007-offical/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/madhu2007-offical/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -545,6 +547,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -555,6 +558,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
