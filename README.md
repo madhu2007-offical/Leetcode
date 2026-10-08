@@ -369,6 +369,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/madhu2007-offical/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/madhu2007-offical/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -537,12 +538,14 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/madhu2007-offical/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/madhu2007-offical/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/madhu2007-offical/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/madhu2007-offical/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
