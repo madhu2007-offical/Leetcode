@@ -196,6 +196,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0643-maximum-average-subarray-i](https://github.com/madhu2007-offical/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/madhu2007-offical/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/madhu2007-offical/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/madhu2007-offical/Leetcode/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/madhu2007-offical/Leetcode/tree/master/0877-stone-game) |
@@ -483,6 +484,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0394-decode-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/madhu2007-offical/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/madhu2007-offical/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/madhu2007-offical/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhu2007-offical/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -626,6 +628,10 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/madhu2007-offical/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
 
 <br/>
