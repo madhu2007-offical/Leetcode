@@ -486,6 +486,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0735-asteroid-collision](https://github.com/madhu2007-offical/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/madhu2007-offical/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/madhu2007-offical/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/madhu2007-offical/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -614,6 +615,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -623,6 +625,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## DP on Trees
 |  |
@@ -632,6 +635,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/madhu2007-offical/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
 
 <br/>
