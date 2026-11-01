@@ -216,6 +216,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0399-evaluate-division](https://github.com/madhu2007-offical/Leetcode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/madhu2007-offical/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/madhu2007-offical/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/madhu2007-offical/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/madhu2007-offical/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/madhu2007-offical/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -347,6 +348,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0062-unique-paths](https://github.com/madhu2007-offical/Leetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/madhu2007-offical/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/madhu2007-offical/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0843-guess-the-word](https://github.com/madhu2007-offical/Leetcode/tree/master/0843-guess-the-word) |
 | [0866-prime-palindrome](https://github.com/madhu2007-offical/Leetcode/tree/master/0866-prime-palindrome) |
