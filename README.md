@@ -245,6 +245,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1254-number-of-closed-islands](https://github.com/madhu2007-offical/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/madhu2007-offical/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/madhu2007-offical/Leetcode/tree/master/1268-search-suggestions-system) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/madhu2007-offical/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1395-count-number-of-teams](https://github.com/madhu2007-offical/Leetcode/tree/master/1395-count-number-of-teams) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
@@ -385,6 +386,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [1071-greatest-common-divisor-of-strings](https://github.com/madhu2007-offical/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/madhu2007-offical/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/madhu2007-offical/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/madhu2007-offical/Leetcode/tree/master/1510-stone-game-iv) |
@@ -619,6 +621,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0724-find-pivot-index](https://github.com/madhu2007-offical/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/madhu2007-offical/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/madhu2007-offical/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/madhu2007-offical/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/madhu2007-offical/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -822,6 +825,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [0208-implement-trie-prefix-tree](https://github.com/madhu2007-offical/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/madhu2007-offical/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
@@ -834,6 +838,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | ------- |
 | [0901-online-stock-span](https://github.com/madhu2007-offical/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/madhu2007-offical/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/madhu2007-offical/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## DP on Trees
 |  |
 | ------- |
