@@ -318,6 +318,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3904-smallest-stable-index-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/madhu2007-offical/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/madhu2007-offical/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -360,6 +361,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/madhu2007-offical/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/madhu2007-offical/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -593,6 +595,7 @@ The goal is straightforward: consistent, measurable progress toward interview re
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/madhu2007-offical/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/madhu2007-offical/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/madhu2007-offical/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/madhu2007-offical/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Number Theory
 |  |
 | ------- |
